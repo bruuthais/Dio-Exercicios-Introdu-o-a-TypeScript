@@ -1,1 +1,0 @@
-#Exercicios da Aula de Typescript na plataforma DIO
